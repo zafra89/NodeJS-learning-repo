@@ -1,1 +1,18 @@
-[{"firstName":"Juan","lastName":"Gonzalez"},{"firstName":"María","lastName":"Rodríguez"},{"firstName":"Jose Luis","lastName":"García"}]
+[
+  {
+    "firstName": "Juan",
+    "lastName": "Gonzalez"
+  },
+  {
+    "firstName": "Marta",
+    "lastName": "Rodríguez"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Bengoa"
+  },
+  {
+    "firstName": "Jose Luis",
+    "lastName": "García"
+  }
+]

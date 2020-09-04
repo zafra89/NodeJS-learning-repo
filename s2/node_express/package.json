@@ -1,0 +1,14 @@
+{
+  "name": "node_express",
+  "version": "1.0.0",
+  "description": "Módulo para aprender Express",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "nodemon ./src/index.js"
+  },
+  "author": "José Luis",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
