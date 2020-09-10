@@ -9,7 +9,7 @@ const server = express();
 const routerPets = express.Router();
 
 routerPets.get('/', (req, res) => {
-  res.send("Welcome to Pets.")
+  res.send("Welcome to Pets database.")
 })
 
 routerPets.get('/create', (req, res) => {
