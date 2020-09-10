@@ -1,0 +1,14 @@
+{
+  "name": "express-albums",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/albums.js",
+  "scripts": {
+    "start": "nodemon ./src/albums.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
